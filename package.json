@@ -1,0 +1,11 @@
+{
+  "name": "expresso",
+  "version": "1.0.0",
+  "description": "Simple API server for an individual project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
